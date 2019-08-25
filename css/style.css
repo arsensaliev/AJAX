@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    padding: 15px 15px;
+}
+label {
+    display: block;
+    font-size: 30px;
+}
+#rub, #usd {
+    width: 170px;
+    height: 35px;
+    font-size: 18px;
+}
